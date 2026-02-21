@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   description:
     "We help SMEs, e‑commerce brands, agencies, and startups automate repetitive work with AI and reduce operational costs by up to 40%.",
   icons: {
-    icon: "/logo1.png",
-    shortcut: "/logo1.png",
-    apple: "/logo1.png"
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png"
   },
   openGraph: {
     title: "ZytmossAI | AI Automation Consulting",

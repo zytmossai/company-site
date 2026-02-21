@@ -42,19 +42,19 @@ export function TopNav() {
         <div className="container-page flex h-16 items-center justify-between gap-4">
           <Link href="/" className="relative flex items-center gap-3" onClick={() => setMenuOpen(false)}>
             <Image
-              src="/logo1.png"
+              src="/logo.png"
               alt="ZytmossAI"
-              width={120}
-              height={40}
-              className="h-9 w-auto object-contain dark:hidden"
+              width={100}
+              height={50}
+              className="h-11 w-auto object-contain dark:hidden"
               priority
             />
             <Image
-              src="/logo1.png"
+              src="/logo.png"
               alt="ZytmossAI"
-              width={120}
-              height={40}
-              className="hidden h-9 w-auto object-contain dark:block"
+              width={100}
+              height={50}
+              className="hidden h-11 w-auto object-contain dark:block"
               priority
             />
             <span className="hidden text-[12px] text-slate-600 dark:text-slate-400 sm:inline">
