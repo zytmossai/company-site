@@ -42,7 +42,7 @@ export function TopNav() {
         <div className="container-page flex h-16 items-center justify-between gap-4">
           <Link href="/" className="relative flex items-center gap-3" onClick={() => setMenuOpen(false)}>
             <Image
-              src="/logo.png"
+              src="/logo1.png"
               alt="ZytmossAI"
               width={120}
               height={40}
@@ -50,7 +50,7 @@ export function TopNav() {
               priority
             />
             <Image
-              src="/logo.png"
+              src="/logo1.png"
               alt="ZytmossAI"
               width={120}
               height={40}
